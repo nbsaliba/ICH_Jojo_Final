@@ -186,9 +186,9 @@
       "featureReport": "Données de l'objet",
       "link": "Lien",
       "noattributes": "Pas d'attribut",
-      "noresults": "Pas de résultats pour la position sélectionnée",
-      "querying": "Identification en cours...",
-      "title": "Informations sur l'objet"
+      "noresults": "Click on a numbered circle to get information on the ICH of an administrative unit. For more details, click on the Help button.",
+      "querying": "Querying...",
+      "title": "ICH Info"
     },
     "imageeditor": {
       "confirmclose": "Fermer sans enregistrer?",
